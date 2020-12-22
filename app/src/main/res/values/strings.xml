@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="my_laptop_name">Asus Vivobook Max</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text" >Incorrect!</string>
+    <string name="first_score_text">0/10</string>
+    <string name="correct_toast_message">Great!</string>
+    <string name="incorrect_toast_message">R.I.P!</string>
+    <string name="q1">Marrakesh is the capital of Morocco</string>
+    <string name="q2">Idina Menzel sings let it go 20 times in Let It Go from Frozen</string>
+    <string name="q3">Waterloo has the greatest number of tube platforms in London</string>
+    <string name="q4">M and M stands for Mars and Moordale</string>
+    <string name="q5">sGin is typically included in a Long Island Iced Tea</string>
+    <string name="q6">The unicorn is the national animal of Scotland</string>
+    <string name="q7">There are two parts of the body that cant heal themselves</string>
+    <string name="q8">Howard Donald is the oldest member of Take That</string>
+    <string name="q9">The Great Wall of China is longer than the distance between London and Beijing</string>
+    <string name="q10">There are 219 episodes of Friends</string>
+
+    </resources>
